@@ -1,0 +1,60 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I could compare them and seeing only the changes gave a hint for the typo.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    One is able to do lot of undo.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manual commit allows you to choose a stable clean version. Automatic save helps you when there is sudden power outage.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    No clue.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    No clue either.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I make easier changes, since I can always revert.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Web development file versioning for my new website.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	To see evolution.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	
+	Pro: Saving meaningful units. Con: If you forget, then it sucks.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	
+	Becaus in programming multiple files can be interrelated.
+
+How can you use the commands git log and git diff to view the history of files?
+	
+	Easily. Just type it in and there you have it. 
+	git diff <old ID> <new ID>
+
+How might using version control make you more confident to make changes that could break something?
+	
+	I can always find the problem and revert back.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I want to start a new project to make a Raspberry Pi audio player
+
+	
