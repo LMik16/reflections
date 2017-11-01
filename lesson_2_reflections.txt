@@ -15,6 +15,7 @@ organized? How would branches help?
     When I want to try something experimental, which should not yet be added to the master branch. Branches keep things separate.
 
 How do the diagrams help you visualize the branch structure?
+    By showing what commits can see each other.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
