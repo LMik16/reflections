@@ -23,6 +23,7 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+    Automatic is faster, but it is not always possible - manual you have the control.
 
 //Adding a new line
 .
