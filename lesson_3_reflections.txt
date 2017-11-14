@@ -28,4 +28,5 @@ master?  What benefits does each approach have?
 
     Fill in your answer here
 
-Adding a new line on GitHub to make a diff between remote and local.
+Adding a changed line on GitHub to make a diff between remote and local.
+And here one more line.
