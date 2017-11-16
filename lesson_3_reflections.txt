@@ -16,7 +16,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Working offline, faster comapare.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
@@ -29,4 +29,6 @@ master?  What benefits does each approach have?
     Fill in your answer here
 
 Adding a changed line on GitHub to make a diff between remote and local.
-And one more for git mergetool.
+And here one more line or two.
+
+Make some changes.
