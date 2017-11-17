@@ -26,7 +26,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Cooeperating on GitHub through pull-requests makes it neccessary.
 
 Adding a changed line on GitHub to make a diff between remote and local.
 And here one more line or two.
